@@ -32,6 +32,13 @@ The site features a classic early 2000s web design with:
 - Retro-style buttons
 - Marquee text
 
+## Demo
+
+Check out the live demo of this project to experience the full retro vibe:
+1. Matrix-style animations in the Animations section
+2. Classic download progress bars in the Downloads section
+3. Nostalgic guestbook with glowing text effects
+
 ## License
 
 MIT License - feel free to use and modify! 
